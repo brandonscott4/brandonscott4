@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello :wave:\
+My name is **Brandon** and I am a **Computer Science** student.
 
 <!--
 **brandonscott4/brandonscott4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
