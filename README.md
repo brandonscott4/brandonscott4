@@ -1,4 +1,4 @@
-# Hello :wave:\
+# Hello :wave:
 My name is **Brandon** and I am a **Computer Science** student.
 
 <!--
